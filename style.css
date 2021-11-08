@@ -1,0 +1,50 @@
+#head1,#para1{
+    margin:0px;
+}
+.d1{
+   text-align: center;
+}
+#img1{
+  height:140px;
+  width:auto;
+
+}
+#para2{
+    font-size:18px;
+    margin:0px;
+}
+#qqt{
+    color: #660000;
+    font-size:16px;
+    margin: 0px !important;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+code{
+    color: #660000;
+    font-size:18px;  
+    font-weight: 500;
+}
+#non_p{
+    font-size: large;
+}
+#num{
+    color:blue;
+}
+#tbl1 table{
+    border:1px;
+    text-align:center;
+}
+#qqt2{
+    font-size:16px;
+    margin: 0px !important;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    
+}
+.d2{
+    text-align: center;
+}
+
+#paar4 p{
+    width:50%;
+}
